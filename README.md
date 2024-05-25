@@ -11,3 +11,9 @@ The extension uses the following techniques:
 - It creates a custom response tab on the message editor, provided that `escape unicode characters parameter` is present
 - The editor is set to be read-only
 - The value of body is UNICODE unescaped and displayed in the `Unescape Unicode` tab
+
+---
+# Before
+![Before](https://raw.githubusercontent.com/sondk/unescapeunicode/main/before.png)
+# After
+![After](https://raw.githubusercontent.com/sondk/unescapeunicode/main/after.png)
