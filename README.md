@@ -1,4 +1,4 @@
-Unescape Unicode Extension
+Unescape Unicode Extension Burp Suite
 ============================
 
 ###### Adds a new tab to Burp's HTTP response editor, in order to handle a data escape unicode format
